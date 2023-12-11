@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+#But not these files
+!.gitignore
+!server.properties
+!bukkit.yml
+!spigot.yml
+
