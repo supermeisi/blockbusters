@@ -45,8 +45,7 @@ commands:
   - summon
   - testforblock
   - tellraw
-  spam-exclusions:
-  - /skill
+  spam-exclusions: []
   silent-commandblock-console: false
   log: true
   tab-complete: 0
@@ -101,8 +100,8 @@ world-settings:
     hopper-amount: 1
     hopper-can-load-chunks: false
     merge-radius:
-      exp: 3.0
-      item: 2.5
+      exp: 4.0
+      item: 3.5
     mob-spawn-range: 6
     dragon-death-sound-radius: 0
     seed-village: 10387312
